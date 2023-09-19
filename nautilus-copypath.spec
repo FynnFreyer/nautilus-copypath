@@ -34,5 +34,5 @@ install -m 755 %{srcname} %{buildroot}/%{_datadir}/nautilus-python/extensions/%{
 
 #-- CHANGELOG -----------------------------------------------------------------#
 %changelog
-* Tue Sep 19 2023 Fynn Freyer <fynn.freyer@googlemail.com> 0.0.1
+* Wed Sep 20 2023 Fynn Freyer <fynn.freyer@googlemail.com> 0.0.1-1
 - setup package build with tito
